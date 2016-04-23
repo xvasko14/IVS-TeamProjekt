@@ -8,7 +8,7 @@ namespace ClassLibrary1
 {
     public class Class1
     {
-        private double Function(double num1, double num2, string op)
+        public double Function(double num1, double num2, string op)
         {
             double finRes = 0;
             if (op == "plus")
