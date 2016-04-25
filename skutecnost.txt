@@ -1,0 +1,15 @@
+Stanovené termíny:
+-terminy ktore sme si stanovili sa mierne lišili od skutoènosti,trošku sme zaostali s viacerými vecami ako vytvorenie Gitu alebo celkovy návrh projektu
+-všetko sme ale postupne dohnali a nakoniec sme nemali skoro žiaden èasový sklz
+
+Rozdelenie práce týmu:
+-rozdelenie práce èiastoène zodpovedalo plánu aj ked postupom èasu sme si rozdelili niektoré dalšie èiastoèné úlohy
+
+Komunikaèné prostriedky:
+-zodpovedali plánu
+-najèastejšie sa však vyzužíval Facebook z dôvodu jednoduchej a rychlej komunikácie
+-fórum bolo vzuživané pomenej ale riešili sme tam niektoré dôležité otázky ako napr.Makefile
+-k osobním stretnutiam došlo parkrát ale skôr sa využivalá komunikácia cez internet
+
+System pro správu verzi:
+-dodržali sme plán a využívali Github kde sme ukladali všetky vytvorené veci 
