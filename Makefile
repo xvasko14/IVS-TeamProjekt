@@ -1,7 +1,5 @@
-.PHONY: zip.clean	
-	
 zip: 
-	zip -r IVS WindowsFormsApplication2
+	zip -r TeamProjekt  WindowsFormsApplication2
 
 clean:
 	rm -rf  WindowsFormsApplication2/ClassLibrary1/ClassLibrary1/obj
